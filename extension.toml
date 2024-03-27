@@ -1,0 +1,12 @@
+id="objc"
+name= "Objective - C"
+version= "0.0.1"
+schema_version = 1
+authors= ["Jett Kaspar <jettk@github.com>"]
+description= "Objective-C Syntax Highlighting for Zed"
+repository= "https://github.com/your-name/my-zed-extension"
+
+
+[grammars.objective-c]
+repository = "https://github.com/gleam-lang/tree-sitter-gleam"
+commit = "58b7cac8fc14c92b0677c542610d8738c373fa81"
